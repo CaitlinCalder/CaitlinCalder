@@ -1,8 +1,8 @@
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C6D2&width=435&lines=Hi%2C+my+name+is+Caitlin+Calder!)
-<p><b><i><span style="color:hotpink">✨Welcome to my GitHub!✨</span></i></b></p>
-![Octocat Wave](https://raw.githubusercontent.com/github/explore/main/topics/octocat/octocat.png)
+<p><b><i><span style="color:hotpink">✨Welcome to my GitHub!✨</span></i></b></p> <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="200"/>
+
 
 ## 👋 About me:
 💻 Final-year BSc IT student at North-West University<br>🧠 Currently majoring in AI, Databases, Decision Support Systems, Computer Networks & Operating Systems<br>🧩 Passionate about software development<br>🚀 Delving into the world of AI and ML<br>🤝 Open to mentorshipand collaborative projects<br><br>
