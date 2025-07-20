@@ -1,3 +1,7 @@
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Caitlin-Calder.Caitlin-Calder)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C6D2&width=435&lines=Hi%2C+my+name+is+Caitlin+Calder!)
+
 <p><b><i><span style="color:hotpink">✨Welcome to my GitHub!✨</span></i></b></p>
 
 💻 Final-year BSc IT student at North-West University<br>🧠 Currently majoring in AI, Databases, Decision Support Systems, Computer Networks & Operating Systems<br>🧩 Passionate about software development<br>🚀 Delving into the world of AI and ML<br>🤝 Open to mentorshipand collaborative projects<br><br>
