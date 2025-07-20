@@ -1,4 +1,5 @@
-# 💫 About Me:
+<p><b><i><span style="color:hotpink">✨Welcome to my GitHub!✨</span></i></b></p>
+
 💻 Final-year BSc IT student at North-West University<br>🧠 Currently majoring in AI, Databases, Decision Support Systems, Computer Networks & Operating Systems<br>🧩 Passionate about software development<br>🚀 Delving into the world of AI and ML<br>🤝 Open to mentorshipand collaborative projects<br><br>
 
 
