@@ -3,10 +3,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C6D2&width=435&lines=Hi%2C+my+name+is+Caitlin+Calder!)
 
 <p><b><i><span style="color:hotpink">✨Welcome to my GitHub!✨</span></i></b></p>
+<img src="https://github.com/CatlinCalder/CatlinCalder/assets/123456789/abcd1234" alt="Octocat" width="150"/>
 
 💻 Final-year BSc IT student at North-West University<br>🧠 Currently majoring in AI, Databases, Decision Support Systems, Computer Networks & Operating Systems<br>🧩 Passionate about software development<br>🚀 Delving into the world of AI and ML<br>🤝 Open to mentorshipand collaborative projects<br><br>
 
-<hr style="border: none; height: 1px; background: #f9c6d3;" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/caitlin-calder-768b01375/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:caitlincalderr@gmail.com) 
