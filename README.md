@@ -5,7 +5,7 @@
 
 
 ## 👋 About me:
-💻 Final-year BSc IT student at North-West University<br>🧠 Currently majoring in AI, Databases, Decision Support Systems, Computer Networks & Operating Systems<br>🧩 Passionate about software development<br>🚀 Delving into the world of AI and ML<br>🤝 Open to mentorshipand collaborative projects<br><br>
+💻 Final-year BSc IT student at North-West University<br>🧠 Currently majoring in AI, Databases, Decision Support Systems, Computer Networks & Operating Systems<br>🧩 Passionate about software development<br>🚀 Delving into the world of AI and ML<br>🤝 Open to mentorship and collaborative projects<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caitlin-calder-768b01375/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:caitlincalderr@gmail.com) [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&logoColor=white)](https://caitlincalder.github.io/Virtual-CV/)
 
