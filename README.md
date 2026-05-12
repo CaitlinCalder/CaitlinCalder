@@ -5,7 +5,7 @@
 
 
 ## 👋 About me:
-💻 BScHons Computer Science Student at the University of Pretoria<br>🧠 Currently majoring in AI, Software Engineering, Digital Forensics, NLP, Educational Software<br>🧩 Passionate about software development<br>🚀 Delving into the world of AI and Digital Forensics<br>🤝 Open to mentorship and collaborative projects<br><br>
+💻 BScHons Computer Science Student at the University of Pretoria<br>🧠 Currently majoring in AI, Software Engineering, Digital Forensics, NLP, Educational Software<br>🧩 Delving into the world of AI and Digital Forensics<br>🤝 Open to mentorship and collaborative projects<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caitlin-calder-768b01375/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:caitlincalderr@gmail.com) [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&logoColor=white)](https://caitlincalder.github.io/Virtual-CV/)
 
